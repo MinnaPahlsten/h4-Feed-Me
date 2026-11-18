@@ -43,6 +43,28 @@ The scan was performed only against localhost (127.0.0.1), which refers to the l
 <img width="552" height="361" alt="image" src="https://github.com/user-attachments/assets/0e76d56e-7078-4aab-a8c9-21ab43b8f59d" />
 <img width="680" height="356" alt="image" src="https://github.com/user-attachments/assets/b14ccdd8-f658-4be8-8bab-5d0456f79752" />
 
+## Sources
 
+Karvinen, T. Cyber Security – h4 Feed me.
+ https://terokarvinen.com/cyber-security/
+
+Finlex. KKO:2003:36. Korkeimman oikeuden ennakkopäätös.
+ https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36
+
+Krebs on Security. RSS Feed.
+ https://krebsonsecurity.com/feed/
+
+Schneier on Security. RSS Feed.
+ https://www.schneier.com/feed/
+
+SANS Internet Storm Center. RSS Feeds.
+ https://isc.sans.edu/xml.html
+
+Cybersecurity and Infrastructure Security Agency (CISA). Cybersecurity Advisories.
+ https://www.cisa.gov/news-events/cybersecurity-advisories
+
+Use of AI
+
+Microsoft Copilot was used to help find relevant sources, explain RSS feeds and port scanning concepts, and assist with language and structure. The practical exercises, commands, screenshots and observations were completed by the author.
 
 
